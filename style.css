@@ -69,6 +69,12 @@ border-radius: 32px;
     border-radius: 32px;
 }
 
+.advance_image {
+    margin-top: 32px;
+    width: 200px;
+    border-radius: 32px;
+}
+
 .right > h1 {
     font-size: 32px;
     color: rgb(25, 201, 237);
@@ -84,7 +90,7 @@ border-radius: 32px;
     color: rgb(25, 201, 237);
 }
 form {
-    margin-top: 400px;
+    margin-top: 50px;
 }
 
 form > h3 {
